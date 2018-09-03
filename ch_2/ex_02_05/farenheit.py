@@ -1,0 +1,7 @@
+prompt = ('what temp is it?\n')
+celcius = input(prompt)
+faren = int(1.8*int(celcius) + 32)
+#answer = str('it is' + faren + 'degrees farenheit')
+#print('it is ')
+print(faren)
+#print(' degrees farenheit')
